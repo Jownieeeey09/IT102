@@ -11,6 +11,7 @@ void main()
 
 void printHelloWorld()
 {
-    printf("Hello World");
+    printf("Hello World\n");
+    printf("I am the king of the world! Alright.\n");
     getch();
 }
